@@ -1,0 +1,10 @@
+# Node.js dependencies
+node_modules/
+
+# Cypress test results
+cypress/screenshots/
+cypress/videos/
+
+# OS specific files
+.DS_Store
+Thumbs.db
